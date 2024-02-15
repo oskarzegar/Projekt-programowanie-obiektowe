@@ -1,0 +1,6 @@
+1;Czekolada;5,99;25
+2;Baton;2,99;66
+3;Pizza;14,99;6
+4;Lody;4,99;14
+6;Długopis;1,99;69
+8;Mleko;4,99;25

@@ -1,0 +1,17 @@
+C:\Users\mmudz\Desktop\Projekt_sklep\bin\Debug\net8.0\Projekt_sklep.exe
+C:\Users\mmudz\Desktop\Projekt_sklep\bin\Debug\net8.0\Projekt_sklep.deps.json
+C:\Users\mmudz\Desktop\Projekt_sklep\bin\Debug\net8.0\Projekt_sklep.runtimeconfig.json
+C:\Users\mmudz\Desktop\Projekt_sklep\bin\Debug\net8.0\Projekt_sklep.dll
+C:\Users\mmudz\Desktop\Projekt_sklep\bin\Debug\net8.0\Projekt_sklep.pdb
+C:\Users\mmudz\Desktop\Projekt_sklep\obj\Debug\net8.0\Projekt_sklep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmudz\Desktop\Projekt_sklep\obj\Debug\net8.0\Projekt_sklep.AssemblyInfoInputs.cache
+C:\Users\mmudz\Desktop\Projekt_sklep\obj\Debug\net8.0\Projekt_sklep.AssemblyInfo.cs
+C:\Users\mmudz\Desktop\Projekt_sklep\obj\Debug\net8.0\Projekt_sklep.csproj.CoreCompileInputs.cache
+C:\Users\mmudz\Desktop\Projekt_sklep\obj\Debug\net8.0\Projekt_sklep.dll
+C:\Users\mmudz\Desktop\Projekt_sklep\obj\Debug\net8.0\refint\Projekt_sklep.dll
+C:\Users\mmudz\Desktop\Projekt_sklep\obj\Debug\net8.0\Projekt_sklep.pdb
+C:\Users\mmudz\Desktop\Projekt_sklep\obj\Debug\net8.0\Projekt_sklep.genruntimeconfig.cache
+C:\Users\mmudz\Desktop\Projekt_sklep\obj\Debug\net8.0\ref\Projekt_sklep.dll
+C:\Users\mmudz\Desktop\Projekt_sklep\obj\Debug\net8.0\Projekt_sklep.csproj.AssemblyReference.cache
+C:\Users\mmudz\Desktop\Projekt_sklep\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\mmudz\Desktop\Projekt_sklep\obj\Debug\net8.0\Projekt_sklep.csproj.CopyComplete

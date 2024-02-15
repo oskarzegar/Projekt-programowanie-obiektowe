@@ -1,0 +1,4 @@
+1;Oskar;Zegar;w67213@student.wsiz.edu.pl;123123123;Rzeszów;Oskar;123;False;True;1150
+2;Jan;Kowalski;jakkowalski@gmail.com;123123123;Rzeszów;Jan;321;False;False;9694,78
+3;Paweł;Nowak;piotrnowak@gmail.com;123123123;Rzeszów;Piotr;123;False;False;0
+4;Norbert;Nowak;nnowak@outlook.com;567567567;Rzeszów;Norbert;321;True;False;0

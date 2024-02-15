@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tbrfd2VHmL3gdGTwIHLDuQveb9+yx+JnSfJznHvoM2EmoCr75sQ8Ov4yIR10FnWjKfzbwqBwQa7Rbn/+pqdomg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mmudz\\Desktop\\Projekt_sklep\\Projekt_sklep.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mmudz\\.nuget\\packages\\csvhelper\\30.0.3\\csvhelper.30.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
